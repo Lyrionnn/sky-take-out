@@ -9,8 +9,8 @@ sky:
 
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tMesMTePj7bBXvL9bwr
-    access-key-secret: AZuQfdAcdPMxrOu5RNVveVTCM92gpd
+    access-key-id: 
+    access-key-secret: 
     bucket-name: sky-take-out-yql
 
   redis:
